@@ -55,6 +55,5 @@ public class Trabajador {
                 + "Sueldo: %.2f", obtener_nombres(), obtener_apellidos(),
                 obtener_sueldo_mensual());
     }
-    
-    
+        
 }
